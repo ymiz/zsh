@@ -70,6 +70,7 @@ alias du="du -h"
 alias df="df -h"
 alias su="su -l"
 
+alias bundle-install-vendor="bundle install --path vendor/bundler"
 
 ## prompt
 RPROMPT='[%C]'
